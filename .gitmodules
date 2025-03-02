@@ -1,0 +1,3 @@
+[submodule "TSB_AutoAD/Ensembling/AutoTSAD"]
+	path = TSB_AutoAD/Ensembling/AutoTSAD
+	url = https://github.com/HPI-Information-Systems/AutoTSAD
