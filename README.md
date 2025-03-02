@@ -51,3 +51,8 @@ python Step_2_run_AutoAD_U/M.py --AutoAD_Name OE
 <p align="center">
 <img width="400" src="assets/performance_overview.png"/>
 </p>
+
+
+## Acknowledgement
+
+The OFA, Lag-Llama, Chronos, TimesFM, and MOMENT models, as well as the YAHOO, Stock, Power, SWaT, and CreditCard datasets, were accessed and used solely by The Ohio State University researchers. Additionally, the associated code being released was developed solely by OSU without any involvement from Meta.
