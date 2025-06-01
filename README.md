@@ -134,6 +134,7 @@ The datasets and underlying base algorithms are adopted from TSB-AD benchmark [[
 |TimesFM|is based on pretraining a decoder-style attention model with input patching, using a large time-series corpus comprising both real-world and synthetic datasets.|
 |MOMENT|is pre-trained T5 encoder based on a masked time-series modeling approach.|
 
+> A detailed evaluation of base anomaly detectors, including overall performance and results across different anomaly types, is available at [[Homepage]](https://thedatumorg.github.io/TSB-AD/).
 
 ### Evaluation Overview
 
