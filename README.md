@@ -1,6 +1,49 @@
 <h1 align="center">📈 TSB-AutoAD</h1>
 <h2 align="center">Towards Automated Solutions for Time-Series Anomaly Detection</h2>
 
+Main Recent Update:
+
+🚩 [March 2025] Paper accepted to PVLDB 2025.
+
+Related Repository:
+
+📦 [TSB-AD](https://github.com/TheDatumOrg/TSB-AD): Towards A Reliable Time-Series Anomaly Detection Benchmark.
+
+If you find our work helpful, please consider citing:
+
+<details>
+<summary>"TSB-AutoAD: Towards Automated Solutions for Time-Series Anomaly Detection" Qinghua Liu, Seunghak Lee and John Paparrizos. PVLDB 2025.</summary>
+
+```bibtex
+@article{liu2025tsb,
+  title={TSB-AutoAD: Towards Automated Solutions for Time-Series Anomaly Detection},
+  author={Liu, Qinghua and Lee, Seunghak and Paparrizos, John},
+  journal={Proceedings of the VLDB Endowment},
+  volume={18},
+  number={11},
+  pages={4364--4379},
+  year={2025},
+  publisher={VLDB Endowment}
+}
+```
+</details>
+
+
+<details>
+<summary>"The Elephant in the Room: Towards A Reliable Time-Series Anomaly Detection Benchmark" Qinghua Liu and John Paparrizos. NeurIPS 2024.</summary>
+
+```bibtex
+@article{liu2024elephant,
+  title={The elephant in the room: Towards a reliable time-series anomaly detection benchmark},
+  author={Liu, Qinghua and Paparrizos, John},
+  journal={Advances in Neural Information Processing Systems},
+  volume={37},
+  pages={108231--108261},
+  year={2024}
+}
+```
+</details>
+
 ## Table of Contents
 
 - [📄 Overview](#overview)
